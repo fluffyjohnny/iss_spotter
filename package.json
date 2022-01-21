@@ -1,0 +1,22 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "ISS spotter based on IP location",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluffyjohnny/iss_spotter.git"
+  },
+  "author": "John Chia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluffyjohnny/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/fluffyjohnny/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
